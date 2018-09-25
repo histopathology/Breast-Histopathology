@@ -1,4 +1,4 @@
-# Breast-Cancer-Histopathology
+# Invasive Ductal Carcinoma (IDC) Aggressiveness Detector
 This repository contains a visual recognition artificial intelligence project that utilizes a convolutional neural network to detect the aggressiveness of Invasive Ductal Carcinoma (IDC) in magnified breast cancer histopathology images.
 Aggressiveness scores are outputted as the percentage of IDC positive subpatches out of the total number of subpatches.
 
